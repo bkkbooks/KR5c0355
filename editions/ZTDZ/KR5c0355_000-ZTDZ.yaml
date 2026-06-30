@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5c0355/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 終南山祖庭仙眞内傳序子綦之隱几坐忘非南華之稱贊則人莫知其烏有道太白之仙丰道骨非司馬子微之裁鑒則世莫識其烏異人學道之人隱遯巖谷跧守蘧廬被褐懷玉負抱經綸之才不爲世用獨善其身而恬然委鮵千載而下不知其幾千百人不幸不爲世所知卒於湮没無聞與草木俱腐惜哉幸而有好事者紀録爲傳則又過神其事反使後世不能盡信吾恐隱士之心必不汲汲於索隱行怪以駭人之觀聽也夫世之所貴乎修仙者亦在乎守道不變陰功濟人正容悟物處順安時而已豈直以乘雲氣跨箕尾解水火遣冠舄抜宅昇舉坐脱立亡而後爲得道之證耶嘗觀舊所謂列仙總仙高道等傳未有不涉此議者今已不存天樂眞人李君復於暇曰編述嘗居祖庭者已往師眞道行别烏一傳使後人知所宗本其辭直其事的坦然明白略無詭侈信可以發潜德之幽光示後學之楷式其用心豈淺淺哉昔劉翰林碑徂師仙跡以謂師之出神入夢擲傘投冠其他騰凌滅没之事皆其權智非師本教噫後之學者有能體徂師之苦志鍊行闡化度人以達於成己成物則將來秉筆者白有定論固無但私於我徂庭焉至元甲申歲二月初吉知常盛德大師提點終南甘河鎮遇仙官事玉道明序
+  hash: sha256:95e6f32a52b8ce98bd250a069a19d4098e8e918f94791157488a479edcd119af
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0355_SJB_000-190516c, image: sjb/19/190516c.png}
+metadata:
+  title: 終南山祖庭仙真內傳
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 00:56:37.729767'
+  source:
+    repository: kanripo
+    path: KR5c0355/KR5c0355_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:3f8e0b50d99a7837f40f6c3171b1df5fd0e10bc21cc714d6501355c3b4f9e23a

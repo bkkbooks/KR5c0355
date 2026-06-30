@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR5c0355/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5c0355/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 終南山祖庭仙真內傳
+  date: '2015-08-29 00:56:37.729767'
+  source:
+    repository: kanripo
+    path: KR5c0355
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0355_000-YP-C.yaml, hash: 'sha256:fe1dd0c11b6cb144107b80e9b33b6e5867404b00697c93f3384aa133727fef43'}
+  - {seq: 1, filename: KR5c0355_001-YP-C.yaml, hash: 'sha256:db7425590ca4284f51a42e40d52606b553b5d12d496552bea0b92b2a0de21762'}
+  - {seq: 2, filename: KR5c0355_002-YP-C.yaml, hash: 'sha256:f748362a796525b4d072f58318a6180b32f97f526c4a2ccc5dc96516e4766fc9'}
+  - {seq: 3, filename: KR5c0355_003-YP-C.yaml, hash: 'sha256:e5f67e871444720932106eeb7b1ecb74feb4abe69015e5455b9e047288799b57'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0355_001-YP-C.markers.yaml, hash: 'sha256:59b02761b87f05ba383732ef9862c769f60d1061114a4822f421bd4f7d18d989'}
+  - {seq: 2, role: markers, filename: assets/KR5c0355_002-YP-C.markers.yaml, hash: 'sha256:400fe6dd419253fd14a0abccabcb41d16630ea0addc1dbc92898d526dc6af9e2'}
+  - {seq: 3, role: markers, filename: assets/KR5c0355_003-YP-C.markers.yaml, hash: 'sha256:b48d42b427dada0997edf91b86f70d4b160271672822a7fc8fc988c326694b22'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0355_YP-C_27yiji-01-0011a
+    span:
+    - body
+    - 0
+    - 7089
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0355_YP-C_27yiji-01-0027a
+    span:
+    - body
+    - 0
+    - 7400
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0355_YP-C_27yiji-01-0043b
+    span:
+    - body
+    - 0
+    - 10517
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:57ea012a47def62871962032472254f23ccbc25cb7d9b3b12d54957b072156d6

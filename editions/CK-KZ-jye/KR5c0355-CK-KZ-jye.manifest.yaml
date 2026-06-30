@@ -1,0 +1,403 @@
+canonical_identifier: bkk:krp/KR5c0355/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5c0355/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 終南山祖庭仙真內傳
+  date: '2015-08-29 00:56:37.729767'
+  source:
+    repository: kanripo
+    path: KR5c0355
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0355_000-CK-KZ-jye.yaml, hash: 'sha256:084c799ea71634b66591d7f1819b25afd81794f43d52081874b1c7755a856fa5'}
+  - {seq: 1, filename: KR5c0355_001-CK-KZ-jye.yaml, hash: 'sha256:5e978d7b6ea8681b0401aad9e8b216f7ce60ebd0c8f60c0510ebfe3e281cf203'}
+  - {seq: 2, filename: KR5c0355_002-CK-KZ-jye.yaml, hash: 'sha256:d81983e3a176c97eb14bb24eb5c734a06a023b7907766c57622e098949a56ce4'}
+  - {seq: 3, filename: KR5c0355_003-CK-KZ-jye.yaml, hash: 'sha256:5ecb5cbeb10d0f6c579dbd772e400cf26985fc09ae089f27db33ecd7ca5758f1'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0355_001-CK-KZ-jye.markers.yaml, hash: 'sha256:766e10961fe2d60a5db76f64a8b38ab93c0753c6b1f3bb41e9000873ad93892d'}
+  - {seq: 2, role: markers, filename: assets/KR5c0355_002-CK-KZ-jye.markers.yaml, hash: 'sha256:3c731f49a4a5e4d9390cd77ed21d5c3e32a057cce914ce36f88f4a7b0b1e30aa'}
+  - {seq: 3, role: markers, filename: assets/KR5c0355_003-CK-KZ-jye.markers.yaml, hash: 'sha256:a4ec5aacbafc6e68ac74f7ca897e76ce2734950f5f21ce567613c61050845d40'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 629
+  label: 玉蟾眞人
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 629
+    - 1020
+  label: 靈陽眞人
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 1020
+    - 1486
+  label: 劉通微
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 1486
+    - 2006
+  label: 史處厚
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 2006
+    - 2351
+  label: 嚴處常
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h7
+    span:
+    - body
+    - 2351
+    - 2807
+  label: 姚玹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h8
+    span:
+    - body
+    - 2807
+    - 3308
+  label: 曹瑱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h9
+    span:
+    - body
+    - 3308
+    - 3383
+  label: 來靈玉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h10
+    span:
+    - body
+    - 3383
+    - 3944
+  label: 雷大通
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h11
+    span:
+    - body
+    - 3944
+    - 4423
+  label: 劉眞一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h12
+    span:
+    - body
+    - 4423
+    - 4889
+  label: 李大乘
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h13
+    span:
+    - body
+    - 4889
+    - 5304
+  label: 趙九淵
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h14
+    span:
+    - body
+    - 5304
+    - 5554
+  label: 蘇鉉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h15
+    span:
+    - body
+    - 5554
+    - 6184
+  label: 于通清
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h16
+    span:
+    - body
+    - 6184
+    - 6744
+  label: 趙悟玄
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0355_CK-KZ-jye_001-h17
+    span:
+    - body
+    - 6744
+    - 7032
+  label: 段明源
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 236
+  label: 柳開悟
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 236
+    - 549
+  label: 任守一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 549
+    - 1238
+  label: 楊明眞
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 1238
+    - 2319
+  label: 周全道¶<md:KR5c0355_HFL_002-005a>
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 2319
+    - 2799
+  label: 喬潛道
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 2799
+    - 3173
+  label: 李沖道
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h7
+    span:
+    - body
+    - 3173
+    - 3844
+  label: 趙九古
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h8
+    span:
+    - body
+    - 3844
+    - 4392
+  label: 陶彥明
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h9
+    span:
+    - body
+    - 4392
+    - 4896
+  label: 王志達
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h10
+    span:
+    - body
+    - 4896
+    - 5468
+  label: 薛知微
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h11
+    span:
+    - body
+    - 5468
+    - 5873
+  label: 陳知命
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h12
+    span:
+    - body
+    - 5873
+    - 6260
+  label: 宋明一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h13
+    span:
+    - body
+    - 6260
+    - 6756
+  label: 呂道安
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0355_CK-KZ-jye_002-h14
+    span:
+    - body
+    - 6756
+    - 7358
+  label: 畢知常
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0355_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 1835
+  label: 清和眞人
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0355_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 1835
+    - 4112
+  label: 眞常眞人
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0355_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 4112
+    - 6653
+  label: 洞眞眞人
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0355_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 6653
+    - 7692
+  label: 披雲眞人
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0355_CK-KZ-jye_003-h5
+    span:
+    - body
+    - 7692
+    - 8426
+  label: 白雲眞人¶<md:KR5c0355_HFL_003-024a>
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0355_CK-KZ-jye_003-h6
+    span:
+    - body
+    - 8426
+    - 9336
+  label: 無欲眞人
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0355_CK-KZ-jye_003-h7
+    span:
+    - body
+    - 9336
+    - 10489
+  label: 圓明眞人¶<md:KR5c0355_HFL_003-029a>
+  type: section
+  level: 2
+hash: sha256:56c5cc11f96b89b0ecd158750695253643abda4e149f62f4c210cfce3026b616
